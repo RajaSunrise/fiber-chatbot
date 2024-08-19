@@ -1,0 +1,6 @@
+POST https://83vf31g7-si0om85t-2tz4d84yoddk.ac2-preview.marscode.dev/ask
+Content-Type: application/json
+
+{
+    "prompt": "coba buatkan saya code python sederhana snake"
+}
